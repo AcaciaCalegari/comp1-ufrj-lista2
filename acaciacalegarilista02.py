@@ -1,5 +1,4 @@
 #Acacia Calegari
-#114153997
 #Lista02
 
 import math 
