@@ -5,8 +5,8 @@ import math
 
 #1- a) Funcao q retorna a media de 3 numeros inteiros
 def mediade3(a,b,c):
-    """dado 3 numeros inteiros retornar a media.int,
-    int, int - float"""
+    """dado 3 numeros inteiros retornar a media.
+    int,int, int - float"""
     return(a+b+c)/3
 
 #1- b) Funcao q retorna a diferenca do maior dos 3 numeros da mediade3 em relacao a media
